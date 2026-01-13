@@ -1,135 +1,64 @@
-# Hi, I'm Souleymane 👋  
-**Cybersecurity Analyst | SOC Operations | Threat Detection | Detection Engineering**
+# 🌐 Souleymane  
+**Cybersecurity Analyst | SOC Operations | Detection Engineering | Cloud Security**
 
-Welcome to my GitHub portfolio. I specialize in building security labs, developing detection logic, analyzing network activity, and automating SOC workflows. My work blends hands-on experience with a passion for continuous learning, documentation, and sharing knowledge with the cybersecurity community.
-
----
-
-## 🔐 About Me
-- Cybersecurity professional with 7+ years securing IT systems and mentoring students  
-- Experienced in SOC operations, threat detection, and incident response  
-- Skilled in log analysis, network monitoring, and alert triage  
-- Passionate about detection engineering, cloud security, and automation  
-- Fluent in English and French  
+I specialize in SOC operations, threat detection, cloud security monitoring, and automation. My work focuses on building detection labs, analyzing logs, writing custom rules, and developing tools that improve SOC efficiency.
 
 ---
 
-## 🛠️ Technical Skills
+## 🔐 Core Skills
 
 ### **SOC & Monitoring**
+- Log analysis • Alert triage • Threat hunting  
 - Splunk • Security Onion • Zeek • Suricata  
-- Log analysis • Threat hunting • Alert triage  
 - MITRE ATT&CK mapping  
 
 ### **Detection Engineering**
-- Sigma rule creation  
-- Suricata & Zeek custom rules  
+- Sigma rules • Suricata rules • Zeek scripts  
 - SPL (Splunk) • KQL (Azure Sentinel)  
 - Detection tuning & false‑positive reduction  
 
 ### **Cloud Security**
 - AWS CloudTrail • GuardDuty • VPC Flow Logs  
-- Azure Sentinel (KQL queries)  
-- Cloud IAM monitoring & misconfiguration detection  
+- Azure Sentinel • Azure AD logs  
+- IAM monitoring & misconfiguration detection  
 
-### **Automation & SOAR**
-- Python automation scripts  
-- API integrations (VirusTotal, AbuseIPDB, Shodan)  
-- Workflow logic for SOAR platforms (Cortex XSOAR, Shuffle, TheHive)  
+### **Automation**
+- Python automation for enrichment, parsing, triage, reporting  
+- API integrations: VirusTotal, AbuseIPDB, Shodan, OTX  
 
-### **Networking & Protocols**
-- Wireshark • TCP/IP   
-- PCAP analysis • Beaconing detection  
-
-### **Vulnerability & Pentesting**
-- Nessus • Metasploit • Nmap  
-- Vulnerability assessment • Remediation planning  
-
-### **DevOps & Infrastructure**
-- Docker • Linux • Virtualization (VMware/VirtualBox)
+### **Network Analysis**
+- Wireshark • PCAP analysis • Beaconing detection  
 
 ---
 
 ## 📂 Featured Projects
-### 🧅 **Security Onion Detection Lab**
-A complete SOC environment for detection engineering and threat hunting.  
-Includes:
-- Zeek logs, Suricata alerts, dashboards  
-- Custom detection rules (Sigma → Suricata → Zeek)  
-- Documented investigations and case studies  
 
-🔗 *Repo coming soon*
+### **Security Onion Detection Lab**  
+Hands‑on SOC environment for detection engineering, threat hunting, and log analysis.  
+➡️ *Repo coming soon*
 
----
+### **Detection Engineering Project**  
+Custom Sigma, Suricata, and Zeek rules mapped to MITRE ATT&CK.  
+➡️ *Repo coming soon*
 
-### 🛡️ **Detection Engineering Project**
-A collection of custom detection rules and pipelines.  
-Includes:
-- Sigma rules for common ATT&CK techniques  
-- SPL and KQL queries  
-- Rule tuning and false‑positive analysis  
-- Attack simulation results  
+### **Cloud Threat Detection (AWS/Azure)**  
+CloudTrail, GuardDuty, and Sentinel detections with attack simulations.  
+➡️ *Repo coming soon*
 
-🔗 *Repo coming soon*
+### **Python SOC Automation Toolkit**  
+Tools for IOC enrichment, log parsing, PCAP metadata extraction, and phishing triage.  
+➡️ *Repo coming soon*
 
----
-
-### ☁️ **Cloud Threat Detection (AWS/Azure)**
-A cloud monitoring project focused on real‑world threats.  
-Includes:
-- CloudTrail analysis  
-- GuardDuty findings  
-- KQL queries for Azure Sentinel  
-- IAM misuse detection  
-
-🔗 *Repo coming soon*
+### **Threat Hunting Case Studies**  
+Hypothesis‑driven hunts with SPL/KQL queries and documented findings.  
+➡️ *Repo coming soon*
 
 ---
 
-### 🐍 **Python SOC Automation Toolkit**
-A set of automation tools for SOC workflows:
-- IOC enrichment tool (VirusTotal API)  
-- Log parser  
-- PCAP analyzer  
-- Alert triage helper  
-- Email header analyzer  
+## 🗺️ Roadmap (2026–2027)
 
-🔗 *Repo coming soon*
-
----
-
-### 🕵️ **Threat Hunting Case Studies**
-Hypothesis‑driven hunts based on MITRE ATT&CK.  
-Includes:
-- Hunt plans  
-- SPL/KQL queries  
-- Findings and anomalies  
-- Lessons learned  
-
-🔗 *Repo coming soon*
-
----
-
-### 📡 **Malware Traffic Analysis Lab**
-Network‑focused malware analysis using safe PCAPs.  
-Includes:
-- Wireshark + Zeek analysis  
-- C2 traffic identification  
-- Beaconing patterns  
-- Detection opportunities  
-
-🔗 *Repo coming soon*
-
----
-
-### 📊 **SIEM Dashboards & Visualizations**
-Dashboards built for SOC visibility and threat detection:
-- Authentication anomalies  
-- Network anomalies  
-- Endpoint alerts  
-- Threat intel matches  
-
-🔗 *Repo coming soon*
+A focused plan to deepen expertise in SOC operations, detection engineering, cloud monitoring, and automation.  
+➡️ **Full roadmap available here**
 
 ---
 
@@ -140,21 +69,14 @@ Dashboards built for SOC visibility and threat detection:
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/soul2mane/  
-- **Email:** soul2mane@gmail.com  
+## 📫 Connect
+- **LinkedIn:** Souleymane Diallo  
+- **Email:** soul2mane  
 
 ---
 
-## ⭐ What I'm Working On
-- Expanding my detection engineering portfolio  
+## 🚀 Current Focus
+- Expanding detection engineering portfolio  
 - Building cloud threat detection labs  
 - Automating SOC workflows with Python  
-- Creating dashboards and playbooks for real‑world SOC use  
-
----
-
-## 🚀 Goals
-- Become a SOC Analyst contributing to threat detection and incident response  
-- Build a strong public portfolio showcasing real-world cybersecurity skills  
-- Continue growing in detection engineering, cloud security, and automation  
+- Publishing case studies and playbooks  
