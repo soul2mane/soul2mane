@@ -58,7 +58,7 @@ Hypothesis‑driven hunts with SPL/KQL queries and documented findings.
 ## 🗺️ Roadmap (2026–2027)
 
 A focused plan to deepen expertise in SOC operations, detection engineering, cloud monitoring, and automation.  
-➡️ **Full roadmap available here**
+➡️ **[Full roadmap available here]** (https://github.com/soul2mane/roadmap-2026-2027)
 
 ---
 
