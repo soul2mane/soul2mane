@@ -71,7 +71,7 @@ A focused plan to deepen expertise in SOC operations, detection engineering, clo
 
 ## 📫 Connect
 - **LinkedIn:** [Souleymane Diallo](https://www.linkedin.com/in/soul2mane/)  
-- **Email:** (mailto:soul2mane@gmail.com)
+- **Email:** (soul2mane@gmail.com)
 
 ---
 
